@@ -2,7 +2,7 @@
 
 ## About Me ℹ️
 
-Hey there! I'm Haneen, a passionate Data Science enthusiast. I love creating innovative solutions and exploring new technologies. Here you'll find a glimpse of my journey and projects.
+Hey there! I'm Haneen, a Data Science enthusiast with a Biology background. I love creating innovative solutions and exploring new technologies. Here you'll find a glimpse of my journey and projects.
 
 
 ## Portfolio Summary 💼
